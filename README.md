@@ -16,24 +16,24 @@ This repository will include resources to help public sector agencies, industry 
 
 # Definitions
 
-API - Application Programming Interface
-CI/CD	- Continuous Integration/Continuous Delivery
-CIEM - Cloud Infrastructure Entitlement Management
-DIRA	- Digital Identity Risk Assessment
-FedRAMP	- Federal Risk and Authorization Management Program
-FICAM	- Federal Identity, Credential, and Access Management
-FISMA	- Federal Information Security Management Act
-ICAM	- Identity, Credential, and Access Management
-IDaaS	- Identity as a Service
-IdP	- Identity Provider
-MFA -	Multi-Factor Authentication
-NIST -	National Institute of Standards and Technology
-NPE - Non-Person Entity
-OAuth	- Open Authorization
-PIV	- Personal Identity Verification
-PKI	- Public Key Infrastructure
-SSO	- Single Sign-On
-WebAuthN	- Web Authentication
+- API - Application Programming Interface
+-CI/CD	- Continuous Integration/Continuous Delivery
+- CIEM - Cloud Infrastructure Entitlement Management
+- DIRA	- Digital Identity Risk Assessment
+- FedRAMP	- Federal Risk and Authorization Management Program
+- FICAM	- Federal Identity, Credential, and Access Management
+- FISMA	- Federal Information Security Management Act
+- ICAM	- Identity, Credential, and Access Management
+- IDaaS	- Identity as a Service
+- IdP	- Identity Provider
+- MFA -	Multi-Factor Authentication
+- NIST -	National Institute of Standards and Technology
+- NPE - Non-Person Entity
+- OAuth	- Open Authorization
+- PIV	- Personal Identity Verification
+- PKI	- Public Key Infrastructure
+- SSO	- Single Sign-On
+- WebAuthN	- Web Authentication
 
 # Federal EO, Memos and Guidance
 
