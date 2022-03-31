@@ -1,4 +1,6 @@
 # Federal-Identity-Management
+![image](https://user-images.githubusercontent.com/94196833/161061929-40d32474-45f4-4d1a-afd0-e80a0842d420.png)
+
 
 A repository of Identity Management resources for the Public Sector 
 
