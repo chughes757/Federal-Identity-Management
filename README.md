@@ -88,6 +88,13 @@ This repository will include resources to help public sector agencies, industry 
 - Decentralized ID, verifiable credentials, zero trust represent a new paradigm for trust/verification (https://www.youtube.com/watch?v=4Txa7pAOHZQ)
 - Microsoft: Decentralized Identity Explained (https://www.youtube.com/watch?v=Ew-_F-OtDFI)
 - Digital Identity & Security for Modern Enterprise - Cyber Security & Cloud Expo, Santa Clara 2019 (https://www.youtube.com/watch?v=m1rhvICHRcw)
+- Building an Enterprise Identity Governance Program in the Federal Government (https://www.youtube.com/watch?v=t2TQ2J9-HQo&list=PLmo1dzwg8wgbK7ztQg03HItPdna7j8FMZ)
+- Marrying Identity and the SOC like Peanut Butter & Jelly (https://www.youtube.com/watch?v=jfnIFyErY04)
+- Identity Security: The Foundation of Zero Trust (https://www.youtube.com/watch?v=hSpBicOiODk)
+- Implications of the New Zero Trust Guidance for Federal Agencies (https://www.youtube.com/watch?v=rcf1K51NmbI)
+- Identity as the Foundation of Zero Trust (https://www.youtube.com/watch?v=t825Dy7XKng)
+- Strengthening the Mission with Identity Centric Security (https://www.youtube.com/watch?v=ZZsp7aVAoP0)
+- BeyondCorp for the Rest of Us (https://www.youtube.com/watch?v=cuatrTKEy90) 
 
 
 # Creators
